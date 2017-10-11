@@ -115,7 +115,6 @@
 * 클로저 블럭내에서 `[weak self] in` 코드를 넣는 방법으로 순환 참조를 해결하는데 이때 `[weak self] in` 코드가 하는 역할과 그 이유는?
 * ViewController의 생명 주기
 * App의 생명주기 (AppDelegate)
-* ViewController의 생명 주기
 * 고차함수(Map, Reduce, Filter, Flatmap)에 대해 설명하세요.
 * Map과 Flatmap의 차이
 * 동기 비동기에 대해 설명하세요.
